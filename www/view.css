@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: aqua;
+     text-align: center;
+}
+td {
+   width: 100px; 
+   font-size: 80px;
+   border: 1px aqua solid;
+   cursor: grab;
+}
+tr {
+    height: 100px;
+    text-align: center;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+div {
+    font-size: 30px;
+}
